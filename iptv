@@ -1,13 +1,6 @@
 
 
-#######################################################
-##    DEU UM TRABALHO DO CACETE PARA FAZER A LISTA.  ##
-## SE FOR REPASSAR DEIXE OS DEVIDOS CREDITOS A LHMTV.##
-##       VOCÊ PODE OLHAR E ESPELHAR O CONTEÚDO.      ##
-## NÃO AUTORIZO RECEBER LUCROS EM CIMA DESSES LINKS. ##
-## SE VER PARTE DESSE CONTEÚDO EM LISTA PAGA AVISE!  ##
-##  OBSERVACAO: LINKS SÂO ALTERADOS CONSTANTEMENTE.  ##
-##     GOSTOU, CONTRIBUA! SIMPLES. NÂO SÓ COPIE!     ##
+
 #######################################################
 
 #EXTM3U
@@ -18,9 +11,7 @@ http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/fb.png" group-title="LHMTv" ,FB.COM/LHMTv
 http://0.0.0.0
 
-##########################################################################################################################
-## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
-##########################################################################################################################
+
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Malevola: Dona do Mal
 http://thor.lhmtv.gq/filmes/malevoladonadomalts-dub-720p.mp4?LHMTv
@@ -755,9 +746,7 @@ http://thor.lhmtv.gq/filmes/50tonsescuros-dub-720p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cinquenta Tons de Liberdade
 http://thor.lhmtv.gq/filmes/fiftyshadesfreed-dub-720p.mp4?LHMTv
 
-##########################################################################################################################
-## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
-##########################################################################################################################
+
 ##RedeCanais##
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Que Sera de Nozes?
 http://tyr.lhmtv.gq/redecanais/OQUSRDNZS.mp4?LHMTv
@@ -1505,9 +1494,7 @@ http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,ZOHAN. O Agente Bom de Corte
 http://media-br-am.crackle.com/1/u/96/531lf_480p.mp4?LHMTv
 
-##########################################################################################################################
-## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
-##########################################################################################################################
+
 ##Classicos##
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra O foguete da Morte
 http://balder.lhmtv.gq/redecanais/0071979CNTROFGUT.mp4?LHMTv
@@ -1903,9 +1890,7 @@ http://thor.lhmtv.gq/filmes/gritodeliberdade-dub-720p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Um Sonho de liberdade
 http://thor.lhmtv.gq/filmes/umsonhodeliberdade-dub-720p.mp4?LHMTv
 
-##########################################################################################################################
-## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
-##########################################################################################################################
+
 ##Bonus##
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Predadores Assassinos
